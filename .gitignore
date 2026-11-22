@@ -1,0 +1,4 @@
+# Design sources and OS files are not part of the showcase.
+.DS_Store
+Thumbs.db
+desktop.ini
